@@ -21,12 +21,6 @@ tls://dns.quad9.net
 149.112.112.112
 
 
-# = Private DNS Servers =
-192.168.1.1 # Router
-192.168.2.1 # IoT VLAN
-192.168.3.1 # PoE Switch
-
-
 # = DNS cache configuration =
 Cache Size = 4194304
 Override minimum TTL = 600
