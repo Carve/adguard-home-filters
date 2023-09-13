@@ -6,10 +6,12 @@ tls://dns.quad9.net
 # Note: Upstream DNS Servers mode set to "Parallel requests" for better performance.
 
 # = Fallback DNS Servers =
-76.76.2.0          # controld
-94.140.14.140      # adguard (unfiltered)
-9.9.9.9            # quad9
-1.1.1.1            # cloudflare
+76.76.2.0         # controld
+76.76.10.0
+94.140.14.140     # adguard (unfiltered)
+94.140.14.141
+9.9.9.9           # quad9
+149.112.112.112
 
 
 # = Bootstrap DNS Servers =
