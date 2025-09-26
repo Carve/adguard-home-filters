@@ -2,6 +2,10 @@
 ! Title: Carve / adguard-home-filters - allowlist.txt
 ! Last Modified: 9/9/2023 - 2:32pm EST
 !
+@@||sonarr.video^
+@@||radarr.video^
+@@||api.radarr.video^
+@@||api.sonarr.video^
 @@||servarr.com^
 @@||koddi.com^
 @@||ad.doubleclick.net^
