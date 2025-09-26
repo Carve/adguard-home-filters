@@ -2,10 +2,7 @@
 ! Title: Carve / adguard-home-filters - allowlist.txt
 ! Last Modified: 9/9/2023 - 2:32pm EST
 !
-
-!
-! Title: Carve / adguard-home-filters - allowlist.txt
-! Last Modified: 9/9/2023 - 2:32pm EST
+@@||servarr.com^
 @@||koddi.com^
 @@||ad.doubleclick.net^
 @@||assets.micpn.com^
