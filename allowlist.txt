@@ -1,6 +1,6 @@
 !
 ! Title: Carve / adguard-home-filters - allowlist.txt
-! Last Modified: 9/25/2025 - 8:56pm EST
+! Last Modified: 1/8/26
 !
 @@||ip-api.com^
 @@||sonarr.video^
@@ -306,3 +306,4 @@
 @@||connectivitycheck.android.com^
 @@||www.msftconnecttest.com^
 @@||https://shareasale.com/^
+@@||whatnot.com/^
