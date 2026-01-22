@@ -378,6 +378,7 @@
 @@||rainmaker.production-public.tubi.io^$important
 @@||raw.githubusercontent.com^
 @@||recs.listrakbi.com^$important
+@@||recs.richrelevance.com^$important
 @@||reddit.app.link^$important
 @@||redir.tradedoubler.com^
 @@||redirect.appmetrica.yandex.com^
