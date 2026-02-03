@@ -39,6 +39,7 @@
 @@||affiliate.api.espn.com^$important
 @@||affiliate.notion.so^$important
 @@||affiliates.abebooks.com^$important
+@@||affiliates.flowermillusa.com^$important
 @@||affirm.app.link^$important
 @@||akamaihd.net^
 @@||akamaitechnologies.com^
