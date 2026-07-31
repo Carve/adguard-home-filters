@@ -232,6 +232,7 @@
 @@||hls.ted.com^
 @@||hollisterco.app.link^$important
 @@||homedepot.sjv.io^$important
+@@||hottopic.gladly.com^$important
 @@||href.li^
 @@||https://shareasale.com/^
 @@||i.ytimg.com^
