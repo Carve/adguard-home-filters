@@ -1,6 +1,6 @@
 !
 ! Title: Carve / adguard-home-filters - allowlist.txt
-! Last Modified: 1/8/26
+! Last Modified: 7/31/26
 !
 
 # DISNEY PLUS
