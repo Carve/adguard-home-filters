@@ -195,6 +195,7 @@
 @@||edge.api.brightcove.com^
 @@||eds.xboxlive.com^
 @@||em.dynamicyield.com^$important
+@@||em.ghin.com^$important
 @@||eufy-us.sjv.io^$client=''CJ - Desktop''
 @@||events.release.narrativ.com^$important
 @@||experian.app.link^$important
