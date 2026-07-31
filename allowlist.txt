@@ -402,6 +402,7 @@
 @@||sa.symcb.com^
 @@||sailthru.perkspot.com^
 @@||sanalytics.disneyplus.com^$important
+@@||sanalytics.hottopic.com^$important
 @@||scorecardresearch.com^$important
 @@||scr9rxo0.micpn.com^$client=''CJ - Desktop''
 @@||sdk.iad-03.braze.com^$important
