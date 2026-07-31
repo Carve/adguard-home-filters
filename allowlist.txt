@@ -102,6 +102,7 @@
 @@||cdn.attn.tv^$important
 @@||cdn.cloudflare.net^
 @@||cdn.embedly.com^
+@@||cdn.gladly.com^$important
 @@||cdn.mcauto-images-production.sendgrid.net^$important
 @@||cdn.optimizely.com^
 @@||cdn.vidible.tv^
