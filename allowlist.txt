@@ -1,6 +1,6 @@
 !
 ! Title: Carve / adguard-home-filters - allowlist.txt
-! Last Modified: 7/31/26
+! Last Modified: 8/6/26
 !
 
 # DISNEY PLUS
@@ -41,6 +41,8 @@
 @@||affiliates.abebooks.com^$important
 @@||affiliates.flowermillusa.com^$important
 @@||affirm.app.link^$important
+@@||affirm.com^
+@@||affirm.com^$important
 @@||akamaihd.net^
 @@||akamaitechnologies.com^
 @@||akamaized.net^
