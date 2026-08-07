@@ -1,6 +1,6 @@
 !
 ! Title: Carve / adguard-home-filters - allowlist.txt
-! Last Modified: 8/6/26
+! Last Modified: 8/7/26
 !
 
 # DISNEY PLUS
@@ -318,6 +318,7 @@
 @@||mparticle.weather.com^
 @@||msftncsi.com^
 @@||msnzc67ab.cc.rs6.net^$important
+@@||mustardgolf.sng.link^
 @@||my.plexapp.com^
 @@||my.tealiumiq.com^
 @@||mygolfspy-newsletter.lpages.co^$client=''CJ - Desktop''
