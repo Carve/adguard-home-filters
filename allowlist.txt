@@ -425,6 +425,7 @@
 @@||smaato.net^$important
 @@||smadex.com^$important
 @@||smtp.sendgrid.net^$important
+@@||sng.link^$important
 @@||sonarr.video^
 @@||spclient.wg.spotify.com^
 @@||spotify.app.link^$important
