@@ -121,6 +121,7 @@
 @@||classic.avantlink.com^
 @@||click.e.progressive.com^$important
 @@||click.linksynergy.com^$client=''CJ - Desktop''
+@@||click.mail.zillow.com^$important
 @@||click.pstmrk.it^$important
 @@||click.redditmail.com^$important
 @@||click.sc.spectrumemails.com^$important
