@@ -1,6 +1,6 @@
 !
 ! Title: Carve / adguard-home-filters - allowlist.txt
-! Last Modified: 8/7/26
+! Last Modified: 9/3/26
 !
 
 # DISNEY PLUS
@@ -59,6 +59,7 @@
 @@||api.radarr.video^
 @@||api.rlje.net^
 @@||api.sonarr.video^
+@@||api.usbank.com^
 @@||app-advertise.zhihuishu.com^
 @@||app-api.ted.com^
 @@||app.adjust.com^
